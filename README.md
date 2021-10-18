@@ -1,2 +1,1 @@
-# stats-preview-card-component-challenge
- Frontendmentor Challenge
+# Frontend Mentor - Stats preview card component challenge
